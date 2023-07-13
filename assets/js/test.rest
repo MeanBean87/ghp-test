@@ -1,0 +1,6 @@
+# https://api.tomtom.com/search/2/fuel/eiffel.json?key=O64x2ltdv9gvxACITAEgDofaHBr0GHEA
+
+# https://api.tomtom.com/search/2/fuelPrice.json?key=O64x2ltdv9gvxACITAEgDofaHBr0GHEA&fuelType=Diesel&lat=48.856614&lon=2.3522219&radius=10000
+
+
+https://registry.npmjs.org/axios
