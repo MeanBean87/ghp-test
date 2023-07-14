@@ -3,4 +3,22 @@
 # https://api.tomtom.com/search/2/fuelPrice.json?key=O64x2ltdv9gvxACITAEgDofaHBr0GHEA&fuelType=Diesel&lat=48.856614&lon=2.3522219&radius=10000
 
 
-https://registry.npmjs.org/axios
+# https://registry.npmjs.org
+
+# https://api.cdnjs.com/libraries?search_fields=name&search=jquery
+
+# https://nutrition-api.esha.com/food/apple
+
+
+# https://www.themealdb.com/api/json/v1/1/search.php?s=Arrabiata
+
+# https://api.nal.usda.gov/fdc/v1/foods/list?dataType=Foundation,SR%20Legacy&pageSize=25&pageNumber=2
+
+# https://calorieninjas.com/
+
+# https://api.nal.usda.gov/fdc/v1/foods/search?api_key=uQZTdboFeeKoTQkVTDPcxEVTOUwM2DuinKW75dif&query=apple
+
+'https://api.calorieninjas.com/v1/nutrition?query='tomato'
+
+
+# uQZTdboFeeKoTQkVTDPcxEVTOUwM2DuinKW75dif
